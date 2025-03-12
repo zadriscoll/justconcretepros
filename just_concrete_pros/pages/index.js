@@ -3,7 +3,8 @@ import dynamic from "next/dynamic";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import { Button } from "../components/Button";
+import { Button } from "../components/ui/button";
+
 
 const FramerMotion = dynamic(() => import("framer-motion"), { ssr: false });
 
