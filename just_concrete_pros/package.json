@@ -12,6 +12,10 @@
     "react": "latest",
     "react-dom": "latest",
     "framer-motion": "latest",
-    "tailwindcss": "latest"
+    "tailwindcss": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@emotion/is-prop-valid": "latest"
+
   }
 }
