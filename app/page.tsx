@@ -91,7 +91,7 @@ export default function Home() {
                   Top Concrete Driveway & Masonry Contractor In North Atlanta
                 </h2>
                 <p className="text-gray-500 dark:text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  We specialize in big booty residential driveway and patio installations, concrete repair, slab construction,
+                  We specialize in residential driveway and patio installations, concrete repair, slab construction,
                   sidewalk and curb installations, foundation work, block retaining walls, stamped concrete, paver work,
                   fire pit construction, monument installations, and gazebo construction.
                 </p>
